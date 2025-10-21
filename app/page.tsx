@@ -11,6 +11,9 @@ import Reviews from './components/Reviews';
 import BlogTeasers from './components/BlogTeasers';
 import FinalCta from './components/FinalCta';
 import Footer from './components/Footer';
+import BrandBanner from "./components/BrandBanner";
+import ExperienceDuo from "./components/ExperienceDuo";
+
 
 export default function Page(){
   return (
@@ -20,7 +23,9 @@ export default function Page(){
         <Hero />
         <TrustBar />
         <UspGrid />
+        <BrandBanner />
         <ExperienceTimeline />
+        <ExperienceDuo />
         <BoatSection />
         <DatesPrices />
         <EthicsStrip />
