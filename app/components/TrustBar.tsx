@@ -1,1 +1,2 @@
+/* eslint-disable react/no-unescaped-entities */
 export default function TrustBar(){return(<section className='border-b border-[#EADCC8] bg-[#FAF7F2]'><div className='mx-auto grid max-w-[1200px] grid-cols-1 md:grid-cols-4 gap-6 px-6 py-8'>{Array.from({length:4}).map((_,i)=>(<div key={i} className='flex items-center gap-3'><div className='h-10 w-10 rounded-full bg-[#EADCC8]' /><div><div className='h-3 w-40 rounded bg-[#EADCC8]' /><div className='mt-2 h-2 w-24 rounded bg-[#EADCC8]' /></div></div>))}</div></section>);}
