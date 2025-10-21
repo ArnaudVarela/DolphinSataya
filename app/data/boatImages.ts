@@ -10,5 +10,4 @@ export const boatImages: BoatImage[] = [
   { src: "/images/boat/dive-platform-sunset-fins.jpg", alt: "Plateforme plongée au sunset avec palmes — ambiance fin de journée.", caption: "Plateforme plongée — sunset" },
   { src: "/images/boat/dive-deck-tanks-setup.jpg", alt: "Pont plongée équipé de blocs et rangements — organisation à bord.", caption: "Pont plongée équipé" },
   { src: "/images/boat/aft-terrace-lagoon-view.jpg", alt: "Terrasse arrière avec banquette et vue sur le lagon de Sataya.", caption: "Terrasse arrière — lagon" },
-  { src: "/images/boat/sundeck-daylight-lagoon.jpg", alt: "Sun deck de jour avec vue sur le lagon turquoise — Mer Rouge.", caption: "Sun deck — journée" },
-];
+ ];
